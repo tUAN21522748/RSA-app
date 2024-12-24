@@ -1,0 +1,10 @@
+C:\Users\mrjok\source\repos\RSAAppDestop\RSAAppDestop\bin\Debug\RSAAppDestop.exe.config
+C:\Users\mrjok\source\repos\RSAAppDestop\RSAAppDestop\bin\Debug\RSAAppDestop.exe
+C:\Users\mrjok\source\repos\RSAAppDestop\RSAAppDestop\bin\Debug\RSAAppDestop.pdb
+C:\Users\mrjok\source\repos\RSAAppDestop\RSAAppDestop\obj\Debug\RSAAppDestop.csproj.AssemblyReference.cache
+C:\Users\mrjok\source\repos\RSAAppDestop\RSAAppDestop\obj\Debug\RSAAppDestop.Form1.resources
+C:\Users\mrjok\source\repos\RSAAppDestop\RSAAppDestop\obj\Debug\RSAAppDestop.Properties.Resources.resources
+C:\Users\mrjok\source\repos\RSAAppDestop\RSAAppDestop\obj\Debug\RSAAppDestop.csproj.GenerateResource.cache
+C:\Users\mrjok\source\repos\RSAAppDestop\RSAAppDestop\obj\Debug\RSAAppDestop.csproj.CoreCompileInputs.cache
+C:\Users\mrjok\source\repos\RSAAppDestop\RSAAppDestop\obj\Debug\RSAAppDestop.exe
+C:\Users\mrjok\source\repos\RSAAppDestop\RSAAppDestop\obj\Debug\RSAAppDestop.pdb
